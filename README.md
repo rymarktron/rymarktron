@@ -1,7 +1,7 @@
 Hi, I'm Ryan👋
 
-I have always been drawn to problem-solving, starting with math contests and chess during my elementary school years. This fascination with finding solutions has continued to grow throughout my life, as I have taken on group projects and leadership roles in organizations like the University of Waterloo Engineering Society and Scouts Canada.
+I have had a lifelong passion for problem-solving, starting from my participation in math and chess competitions during my elementary school years. This interest has only continued to deepen as I have taken on more group projects and leadership roles in organizations such as the University of Waterloo Engineering Society and Scouts Canada.
 
-By day, I am either studying Mechatronics Engineering at the University of Waterloo, working on personal projects, or collaborating with a design team. These experiences allow me to apply my problem-solving skills to real-life challenges, which I find extremely exciting.
+During my days, I am either studying Mechatronics Engineering at the University of Waterloo, pursuing personal projects, or collaborating with design teams. These experiences allow me to apply my problem-solving skills to actual challenges, which I find incredibly thrilling.
 
-Currently, I am working on a major website for my Scouts group and a project for the engineering orientation week at my university.
+Currently, I am engaged in a significant website project for my Scouts group and another for the engineering orientation week at my university.
